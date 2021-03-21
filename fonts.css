@@ -1,0 +1,50 @@
+@font-face {
+	font-family: 'Nimbus Sans';
+	font-style: normal;
+	font-weight: bold;
+	font-display: auto;
+	src: url('https://rvl8.style/wp-content/uploads/2021/03/NimbusSanL-Bol.eot');
+	src: url('https://rvl8.style/wp-content/uploads/2021/03/NimbusSanL-Bol.eot?#iefix') format('embedded-opentype'),
+		url('https://rvl8.style/wp-content/uploads/2021/03/NimbusSanL-Bol.woff2') format('woff2'),
+		url('https://rvl8.style/wp-content/uploads/2021/03/NimbusSanL-Bol.woff') format('woff'),
+		url('https://rvl8.style/wp-content/uploads/2021/03/NimbusSanL-Bol.ttf') format('truetype'),
+		url('https://rvl8.style/wp-content/uploads/2021/03/NimbusSanL-Bol.svg#NimbusSans') format('svg');
+}
+@font-face {
+	font-family: 'Nimbus Sans';
+	font-style: normal;
+	font-weight: normal;
+	font-display: auto;
+	src: url('https://rvl8.style/wp-content/uploads/2021/03/NimbusSanL-Regu.eot');
+	src: url('https://rvl8.style/wp-content/uploads/2021/03/NimbusSanL-Regu.eot?#iefix') format('embedded-opentype'),
+		url('https://rvl8.style/wp-content/uploads/2021/03/NimbusSanL-Regu.woff2') format('woff2'),
+		url('https://rvl8.style/wp-content/uploads/2021/03/NimbusSanL-Regu.woff') format('woff'),
+		url('https://rvl8.style/wp-content/uploads/2021/03/NimbusSanL-Regu.ttf') format('truetype'),
+		url('https://rvl8.style/wp-content/uploads/2021/03/NimbusSanL-Regu.svg#NimbusSans') format('svg');
+}
+
+@font-face {
+	font-family: 'RVL8 Sans';
+	font-style: normal;
+	font-weight: 700;
+	font-display: auto;
+	src: url('https://rvl8.style/wp-content/uploads/2021/02/RVL8-Sans-Bold.eot');
+	src: url('https://rvl8.style/wp-content/uploads/2021/02/RVL8-Sans-Bold.eot?#iefix') format('embedded-opentype'),
+		url('https://rvl8.style/wp-content/uploads/2021/02/RVL8-Sans-Bold.woff2') format('woff2'),
+		url('https://rvl8.style/wp-content/uploads/2021/02/RVL8-Sans-Bold.woff') format('woff'),
+		url('https://rvl8.style/wp-content/uploads/2021/02/RVL8-Sans-Bold.ttf') format('truetype'),
+		url('https://rvl8.style/wp-content/uploads/2021/02/RVL8-Sans-Bold.svg#RVL8Sans') format('svg');
+}
+
+@font-face {
+	font-family: 'RVL8 Title Sans';
+	font-style: normal;
+	font-weight: 700;
+	font-display: auto;
+	src: url('https://rvl8.style/wp-content/uploads/2021/02/RVL8-Title-Sans-Bold.eot');
+	src: url('https://rvl8.style/wp-content/uploads/2021/02/RVL8-Title-Sans-Bold.eot?#iefix') format('embedded-opentype'),
+		url('https://rvl8.style/wp-content/uploads/2021/02/RVL8-Title-Sans-Bold.woff2') format('woff2'),
+		url('https://rvl8.style/wp-content/uploads/2021/02/RVL8-Title-Sans-Bold.woff') format('woff'),
+		url('https://rvl8.style/wp-content/uploads/2021/02/RVL8-Title-Sans-Bold.ttf') format('truetype'),
+		url('https://rvl8.style/wp-content/uploads/2021/02/RVL8-Title-Sans-Bold.svg#RVL8TitleSans') format('svg');
+}
