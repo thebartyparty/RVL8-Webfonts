@@ -41,6 +41,7 @@
 	font-style: normal;
 	font-weight: 700;
 	font-display: auto;
+	text-transform: upper;
 	src: url('https://rvl8.style/wp-content/uploads/2021/02/RVL8-Title-Sans-Bold.eot');
 	src: url('https://rvl8.style/wp-content/uploads/2021/02/RVL8-Title-Sans-Bold.eot?#iefix') format('embedded-opentype'),
 		url('https://rvl8.style/wp-content/uploads/2021/02/RVL8-Title-Sans-Bold.woff2') format('woff2'),
